@@ -5,26 +5,26 @@ function check() {
   var qthree = document.quizy.qthree.value;
   var qfour = document.quizy.qfour.value;
   var qfive = document.quizy.qfive.value;
-  // 
-  // if(qone == "1") {
-  //   count += 20;
-  // }
-  //
-  // if(qtwo == "2") {
-  //   count += 20;
-  // }
-  //
-  // if(qthree == "2") {
-  //   count += 20;
-  // }
-  //
-  // if(qfour == "1") {
-  //   count += 20;
-  // }
-  //
-  // if(qfive == "3") {
-  //   count += 20;
-  // }
+  
+  if(qone == "1") {
+    count += 20;
+  }
+
+  if(qtwo == "2") {
+    count += 20;
+  }
+
+  if(qthree == "2") {
+    count += 20;
+  }
+
+  if(qfour == "1") {
+    count += 20;
+  }
+
+  if(qfive == "3") {
+    count += 20;
+  }
   return count
 }
 
