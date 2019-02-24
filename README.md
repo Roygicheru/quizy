@@ -1,5 +1,5 @@
 # Quiz-Board
-#### A simple quiz,  Fri 12 Feb 2019
+#### A simple quiz,  Fri 22 Feb 2019
 #### By Roy Gicheru
 ## Description
 This is a simple quiz which gives a score based on your answers. A link to my live site is https://roygicheru.github.io/quizy/
