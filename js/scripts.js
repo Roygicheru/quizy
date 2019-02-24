@@ -5,7 +5,7 @@ function check() {
   var qthree = document.quizy.qthree.value;
   var qfour = document.quizy.qfour.value;
   var qfive = document.quizy.qfive.value;
-  
+
   if(qone == "1") {
     count += 20;
   }
