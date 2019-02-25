@@ -1,9 +1,13 @@
 #button {
-  background-color: blue;
+  background-color: yellowgreen;
   font-size: 30px;
   height: 50px;
   border-radius: 30%;
   font-weight: bolder;
   float: left;
   color: yellow;
+}
+
+#scratch {
+  font-family: 'Coiny', cursive;
 }
