@@ -1,8 +1,8 @@
 # Quiz-Board
 #### A simple quiz,  Fri 22 Feb 2019
-#### By Roy Gicheru
+#### By Roy Gicheru.
 ## Description
-This is a simple quiz which gives a score based on your answers. A link to my live site is https://roygicheru.github.io/quizy/
+This is a simple quiz which gives a score based on your answers. A link to my live site is https://roygicheru.github.io/quizy/.
 ## Setup/Installation Requirements
 * A reliable internet connection
 * LINUX UBUNTU operating system installed
