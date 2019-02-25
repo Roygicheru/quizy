@@ -33,6 +33,9 @@ $(document).ready(function() {
     check()
     $("#final_count").text("You've scored " + count + "/100");
     $("#final_count").show();
+    //   if(count >= 80);
+    //   alert("excellent!"")
+    // });
     $("#quizy").hide();
     $("#button").hide();
     event.preventDefault();
